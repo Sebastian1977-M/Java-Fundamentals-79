@@ -1,0 +1,17 @@
+creati clasa Dog cu urmatoarele campuri si metode
+ - breed (sir de caractere)
+ - color (sir de caractere)
+ - age (int)
+ - size (double)
+ - sterilized (boolean)
+ - camp constant LIFE_EXPECTANTCY
+
+ Metode
+ - constructor
+ - setteri, getteri
+ - eat () - se afiseaza tipul de mancare in functie de valoarea variabilei sterilized
+ - bark() - se returneaza un mesaj
+ - sleep() - se afiseaza mesaje pentru cate ore primite ca parametru doarme catelul, varsta sa si speranta generala de viata
+ - toString()
+ Creati clasa MainDog si cel putin 2 obiecte ale clasei.
+ Accesati campurile clasei, modificati campurile clasei si apelati metodele
